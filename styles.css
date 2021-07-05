@@ -12,7 +12,8 @@ body {
   text-align: center;
 }
 
-h1 {
+h1,
+p {
   color: lime;
   font-size: 32px;
 }
